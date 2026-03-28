@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ketandabre1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketandabre1" height="30" width="40" /></a>
 <a href="https://fb.com/googlerketan2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="googlerketan2022" height="30" width="40" /></a>
-<a href="https://instagram.com/ketan.dabre22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketan.dabre22" height="30" width="40" /></a>
+<a href="https://instagram.com/ketan.dabre24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketan.dabre22" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ketandabre1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketandabre1" height="30" width="40" /></a>
 <a href="https://discord.gg/ketandabre22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ketandabre22" height="30" width="40" /></a>
 </p>
