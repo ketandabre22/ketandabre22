@@ -1,13 +1,13 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Ketan Sunil Dabre</h1>
-<h3 align="center">Software Developer | AI & Data Science Enthusiast</h3>
+<h3 align="center">Software Developer </h3>
 
 ---
 
 ### 🚀 About Me
 - 🎓 Master’s in Computer Science @ University of Sydney  
-- 💻 Passionate about Software Development, AI, and Scalable Systems  
+- 💻 Passionate about Software Development, and Scalable Systems  
 - 🔭 Currently building **Full-Stack Web Applications (React + Node.js)**  
 - 🌱 Learning **Advanced DSA, System Design & Cloud (AWS)**  
 - 💬 Ask me about **DSA, Web Development, and Backend Systems**  
