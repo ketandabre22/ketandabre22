@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Ketan Sunil Dabre</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Developer | AI & Data Science Enthusiast</h3>
 
 ---
 
@@ -31,10 +31,12 @@
   </a>
 </p>
 
+<br>
+
 ---
 
 ### 🛠️ Tech Stack
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40" style="margin: 10px 14px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="40" style="margin: 10px 14px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" style="margin: 10px 14px;" />
